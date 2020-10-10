@@ -1,0 +1,7 @@
+INFO:root:['Students', 'Tutors', '__annotations__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'logging']
+INFO:root:Students:
+INFO:root:Hello, my name is Ivan.
+INFO:root:I am on the 5 year of study, I am 23 y.o.
+INFO:root:Tutors:
+INFO:root:Hello, my name is Oleh.
+INFO:root:I have been working for the university for 21 years, I am 48 y.o.
